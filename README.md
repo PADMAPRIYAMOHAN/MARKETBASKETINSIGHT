@@ -1,5 +1,5 @@
 # MARKETBASKETINSIGHT
-phase3submission
+phase5submission
 A market basket analysis, often referred to as association rule mining, is a data mining technique used to discover patterns and relationships within transactional data. This analysis can provide insights into customer behavior, product affinities, and support business decisions such as product placement, cross-selling, and targeted marketing.
 Grocery Store Data: Supermarkets and grocery stores often collect extensive transaction data, making their datasets a valuable resource for market basket analysis. These datasets include information on which products customers buy together during a single shopping trip.
 Dataset Description:
